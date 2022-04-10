@@ -98,7 +98,8 @@ CREATE TABLE dept_emp (
   from_date DATE NOT NULL,
   to_date DATE NOT NULL,
   FOREIGN KEY (dept_no) REFERENCES departments (dept_no),
-  PRIMARY KEY (emp_no) 
+  FOREIGN KEY (emp_no) REFERENCES departments (emp_no),
+  PRIMARY KEY (dept_no, emp_no) 
 );
 
 CREATE TABLE titles (
