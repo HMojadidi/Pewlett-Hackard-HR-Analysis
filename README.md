@@ -23,12 +23,15 @@ In the second deliverable, I created a mentorship-eligibility table that holds t
 
 Upon reviewing the results of the first two deliverables, it is apparent that the Pewlett-Hackard management will have to prepare for an upcoming "silver tsunami" as more and more positions become vacant due to employees retiring:
 
-*.  The highest number of vacancies will be in the Senior Engineering positions with 25,916 positions opening.
+*. The highest number of vacancies will be in the Senior Engineering positions with 25,916 positions opening.
+
 *.  The 24,926 Senior Staff positions are also expected to open up, followed by more Engineers, other staff, Technique Leaders,           Assistant Engineers and a couple managers.
-*.  According to the Mentorship Eligibility table, employees born in 1965 alone gives us about 1549 potential     
-    mentors who can train incoming staff.
+
+*.  According to the Mentorship Eligibility table, employees born in 1965 alone gives us about 1549 potential mentors who can train       incoming staff.
+    
 *.  The least turnover is expected in the management position, which is good news as it allows managers to prepare by hiring and 
     training existing and new employees to fill those upcoming vacant positions, many of which are senior positions.
+    
     
 ## SUMMARY:
 
