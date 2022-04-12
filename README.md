@@ -56,6 +56,6 @@ From this table, I got the count for mentors in each department:
 
 ![Screen Shot 2022-04-12 at 6 02 13 PM](https://user-images.githubusercontent.com/95712234/163062137-17330329-c963-4b8a-b458-101360ddaea8.png)
 
-As the query shows, the highest number of mentors would be available in the Development and Production departments, followed by sales and Customer Service. The department with the least number of available mentors are in Finance and Quality Management. 
+As the query shows, the highest number of mentors would be available in the Development and Production departments, followed by Sales and Customer Service. The department with the least number of available mentors are in Finance and Quality Management. 
 Based on the above results, Pewlett Hackard will have to ensure that focuses it's training and resources in the departments with lesser number of mentors.
 
