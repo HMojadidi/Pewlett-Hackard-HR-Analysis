@@ -2,7 +2,7 @@
 
 ## Overview:
 
-Bobby and I have been given two assignments by his manager: to determine the number of retiring employees per title, and to identify employees who are eligible to participate in a mentorship program at Pewlett Hackard. My report will summarize my analysis and help Bobby's manager for the "silver tsunami" as many current employees reach retirement age. 
+Bobby and I have been given two assignments by his manager: to determine the number of retiring employees per title, and to identify employees who are eligible to participate in a mentorship program at Pewlett Hackard. My report will summarize my analysis and help Bobby's manager and the company prepare for the "silver tsunami" as many current employees reach retirement age. 
 
 ## Results:
 
